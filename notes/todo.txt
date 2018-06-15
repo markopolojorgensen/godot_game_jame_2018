@@ -6,6 +6,10 @@ TODO
   decide on a game idea
   autotile
 
+post-release
+  github edit repo remote page to itch?
+
+
 
 
 
