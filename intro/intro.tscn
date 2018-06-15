@@ -95,6 +95,7 @@ tracks/1/keys = {
 [node name="intro" type="Node" index="0"]
 
 script = ExtResource( 1 )
+skip = false
 
 [node name="center_container" type="CenterContainer" parent="." index="0"]
 
