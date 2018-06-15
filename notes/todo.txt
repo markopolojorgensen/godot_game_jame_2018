@@ -1,9 +1,47 @@
 TODO
-  git repo
-  initial commit
-  license
-  logo intro
+  create itch page
+  butler setup
 
+  wait for theme announcement
+  decide on a game idea
   autotile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+links and whatnot
+
+
+    [Godot Game Jam](https://itch.io/jam/godotjam062018) page.
+    Download the game on [itch.io](https://markopolodev.itch.io/?????????????????????????????????)!
+    Source code on [Github](https://github.com/markopolojorgensen/godot_game_jame_2018).
+
+Links (from everything to everything else)
+  spiel
+    This is a submission for the [Godot Game Jam](https://itch.io/jam/godotjam062018).
+    Download the game on [itch.io]()!
+    Source code on [Github](https://github.com/markopolojorgensen/godot_game_jame_2018).
+    I'm on [Twitter](https://twitter.com/markopolodev).
+
+  link locations
+    Twitch
+    itch.io
+    Github / readme
+    Twitter
 
 

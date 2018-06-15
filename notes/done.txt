@@ -1,1 +1,5 @@
 DONE
+  license
+  git repo
+  initial commit
+  logo intro
